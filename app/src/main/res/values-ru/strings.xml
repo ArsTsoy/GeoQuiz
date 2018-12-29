@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гео тест</string>
+    <string name="question_australia">Канберра столица Австралии</string>
+    <string name="question_kazakhstan">Алматы - столица Казахстана</string>
+    <string name="question_ocean">Тихий океан больше чем Атлантический</string>
+    <string name="question_mideast">Суэцкий канал связывает Красное море и Индийский океан</string>
+    <string name="question_africa">Нила берет свое начало в Египте</string>
+
+    <string name="button_true">Правда</string>
+
+    <string name="button_next">Следующий</string>
+
+    <string name="button_previous">Предыдущий</string>
+
+
+    <string name="button_false">Ложь</string>
+    <string name="toast_true">Правильно</string>
+    <string name="toast_false">Неправильно</string>
+
+</resources>
